@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drake xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Drizzy</title>
+  <xi:include name = "One dance" href="https://www.youtube.com/watch?v=3IIspaicSnY"/>
+  <xi:include name = "Hotline Bling Bling" href="https://www.youtube.com/watch?v=CL1GEyK9Y0o"/>
+  <xi:include name = "" href=""/>
+</drake>

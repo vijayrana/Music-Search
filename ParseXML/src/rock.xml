@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hiphop xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>\m/</title>
+  <xi:include href="disturbed.xml"/>
+  <xi:include href="metallica.xml"/>
+  <xi:include href="gojira.xml"/>
+</hiphop>

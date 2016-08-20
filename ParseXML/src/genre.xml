@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<music xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Good Music + Beers = Awesome</title>
+  <xi:include href="hiphop.xml"/>
+  <xi:include href="rock.xml"/>
+  <xi:include href="metal.xml"/>
+</music>

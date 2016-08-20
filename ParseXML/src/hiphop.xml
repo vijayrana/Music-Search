@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hiphop xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Yo Dawg!</title>
+  <xi:include href="drake.xml"/>
+  <xi:include href="lilwayne.xml"/>
+  <xi:include href="klamar.xml"/>
+</hiphop>
